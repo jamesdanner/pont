@@ -1,6 +1,7 @@
 
 **/*.bk
 **/*.ts.bk
+**/pnpm-lock.yaml
 packages/**/*.ts.bk
 node_modules
 lerna-debug.log
